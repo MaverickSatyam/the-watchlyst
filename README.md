@@ -4,7 +4,7 @@
 
 ## 🚀 Live Application
 
-You can view the deployed application here: **[https://the-watchlyst.web.app/](https://the-watchlyst.web.app/)** ```
+You can view the deployed application here: **[https://the-watchlyst.web.app/](https://the-watchlyst.web.app/)**
 
 ## 🌟 Overview
 
@@ -45,8 +45,8 @@ You must have the following software installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [YOUR_GITHUB_REPO_URL]
-cd THE-WATCHLYST
+git clone https://github.com/MaverickSatyam/the-watchlyst.git
+cd the-watchlyst
 ````
 
 ### Step 2: Install Dependencies
