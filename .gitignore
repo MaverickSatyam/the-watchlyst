@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+
+# Build Output (Critical: DO NOT commit this)
+/dist
+
+# Environment / Secrets (CRITICAL)
+# This file holds your Firebase API keys and must be ignored.
+.env
+# If you created a local copy (e.g., for dev), ignore that too.
+.env.local 
+
+# Vite-specific files
+.vite/ 
+
+# IDE / Editor Files
+.vscode/ 
+
+# Firebase CLI Local Cache
+.firebase/ 
+
+# Logs
+npm-debug.log*
+yarn-error.log*
